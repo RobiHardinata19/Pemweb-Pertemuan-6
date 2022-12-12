@@ -1,0 +1,63 @@
+* {
+    font-family: Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0 auto;
+}
+
+body{
+    background-color: rgb(243, 243, 243);
+}
+
+.judul{
+    padding: 20px;
+    background-color: #F33024;
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.home{
+    background-color: #1E212A;
+    max-width: 600px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.nama{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.heading{
+    text-align: center;
+    margin-bottom: 10px;
+    color: #F33024;
+}
+
+form {
+    align-content: center;
+    width: 90%;
+    background-color: #203248;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+}
+
+input {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+p {
+    color: white;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    background-color: #F33024;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
